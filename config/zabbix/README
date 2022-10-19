@@ -1,0 +1,3 @@
+zabbix.conf 是存放在 Nginx 的配置文件目录中的，一般是在 /etc/nginx/conf.d/zabbix.conf
+
+主要的改动是让 root 这个参数的值和 Nginx 的主配置文件 nginx.conf 中的 root 的值一样，为了 Zabbix 的顺利运行。

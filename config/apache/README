@@ -1,0 +1,2 @@
+Apache 的配置文件：httpd.conf 。为了配合 Nginx，Apache 监听的 HTTP 的对应端口已经改为 7080 。
+HTTPS 的配置文件：ssl.conf。为了配合 Nginx，Apache 监听的 HTTPS             的对应端口已经改为 7443 。

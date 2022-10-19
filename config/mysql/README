@@ -1,0 +1,1 @@
+my.cnf 是 MySQL / MariaDB 的主配置文件。里面主要添加了 utf8 字符集的设置。

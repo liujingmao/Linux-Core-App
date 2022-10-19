@@ -1,0 +1,2 @@
+lnmp 目录中的 nginx.conf 是用于 LNMP 架构的 Nginx 的配置文件。
+reverse-proxy 目录中的 nginx.conf 是用于 反向代理服务器 的 Nginx 的配置文件。
